@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Worker
+build_property.ProjectDir = C:\DevOPS\Containers and Cloud Course\Exercise Containers and Docker\Blue-VS-Green-App\worker\dotnet\Worker\
