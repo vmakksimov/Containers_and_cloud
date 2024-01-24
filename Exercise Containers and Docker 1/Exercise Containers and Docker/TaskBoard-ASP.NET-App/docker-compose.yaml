@@ -24,5 +24,7 @@ services:
             - taskboard_network
 volumes:
     sqldata:
+        external: true
 networks:
-    taskboard_network:    
+    taskboard_network:
+        external: true    
